@@ -1,3 +1,5 @@
+[![Build Status](https://buildhive.cloudbees.com/job/swashbuck1r/job/Minecraft-API/badge/icon)](https://buildhive.cloudbees.com/job/swashbuck1r/job/Minecraft-API/)
+
 # Workbench
 Workbench is the working name of the official Minecraft API, currently in very early stages of development. Its goal is to provide a means of allowing anyone to pick up Minecraft and easily achieve any goal from modifying gameplay to creating utilities to overhauling the clients graphics.
 
